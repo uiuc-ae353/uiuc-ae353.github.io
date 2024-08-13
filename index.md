@@ -11,7 +11,7 @@ seo:
 
 This website supports the course **AE 353: Aerospace Control Systems** taught by Prof. Melkior Ornik in Fall 2024 at the University of Illinois at Urbana-Champaign.
 
-⚠️ Important Notice: _Canvas will be the primary platform for all course communications_. It is essential that students are enrolled in the correct Canvas page and have their notifications set up to receive announcements promptly. All crucial updates and announcements will be delivered through Canvas. _This website is intended as a supplementary resource, primarily serving as a repository for project-related information._
+⚠️ Important Notice: **Canvas will be the primary platform for all course communications**. It is essential that students are enrolled in the correct Canvas page and have their notifications set up to receive announcements promptly. All crucial updates and announcements will be delivered through Canvas. **This website is intended as a supplementary resource, primarily serving as a repository for project-related information.**
 
 ## Course Description
 
