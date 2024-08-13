@@ -21,6 +21,6 @@ On a more technical level, the primary objective of the course is to expose stud
 
 ## Course Staff
 
-Professor: Melkior Ornik ([email](mailto:mornik@illinois.edu))
+Professor: Melkior Ornik ([mornik@illinois.edu](mailto:mornik@illinois.edu))
 
-Teaching assistant: Gokul Puthumanaillam ([email](mailto:gokulp2@illinois.edu))
+Teaching assistant: Gokul Puthumanaillam ([gokulp2@illinois.edu](mailto:gokulp2@illinois.edu))
