@@ -116,18 +116,18 @@ conda install -y python=3 numpy scipy sympy matplotlib \
 Open a terminal and change the working directory to a folder in which you would like to put all your files. Then, use [git](https://git-scm.com/) to download the code from the ae353 github repository by running this command:
 
 ```
-git clone https://github.com/uiuc-ae353/ae353-fa23
+git clone https://github.com/uiuc-ae353/ae353-fa24
 ```
 
 This is a fork of Prof. Bretl's simulation environment.
 
-This process will take very little time. When it completes, you should find a new folder called `ae353-fa23` inside your working directory.
+This process will take very little time. When it completes, you should find a new folder called `ae353-fa24` inside your working directory.
 
 ### Do this every time
 
 ##### Change your working directory
 
-Open a terminal and navigate to your working directory, `ae353-fa23`.
+Open a terminal and navigate to your working directory, `ae353-fa24`.
 
 ##### Activate your conda environment
 
@@ -203,8 +203,8 @@ where "`path/to/directory`" is replaced by the location of the directory in whic
 Then, I would drag a folder into the terminal window and press return. For instance, suppose I had created a folder called `ae353-fa23` somewhere on my computer and dragged it in, then pressed return --- I would see something like this:
 
 ```
-(base) gokulp01@gokul ~ % cd /Users/gokulp01/Documents/ae353-fa23
-(base) gokulp01@gokul ae353-fa23 %
+(base) gokulp01@gokul ~ % cd /Users/gokulp01/Documents/ae353-fa24
+(base) gokulp01@gokul ae353-fa24 %
 ```
 
 See documentation on [Specify files and folders in Terminal on Mac](https://support.apple.com/guide/terminal/specify-files-and-folders-apd3cf6fe02-3ec8-48f1-951f-866e52955fc8/mac) for other ways to specify the path to a directory.
@@ -261,7 +261,7 @@ conda install -y python=3 numpy scipy sympy matplotlib \
 Open a terminal and change the working directory to a folder in which you would like to put all your files. Then, use [git](https://git-scm.com/) to download the code from the ae353 github repository by running this command:
 
 ```
-git clone https://github.com/uiuc-ae353/ae353-fa23
+git clone https://github.com/uiuc-ae353/ae353-fa24
 ```
 
 This is a fork of Prof. Bretl's simulation environment.
@@ -270,7 +270,7 @@ This is a fork of Prof. Bretl's simulation environment.
 
 ##### Change your working directory
 
-Open a terminal and change your working directory to `ae353-fa23`, wherever you put this.
+Open a terminal and change your working directory to `ae353-fa24`, wherever you put this.
 
 ##### Activate your conda environment
 
@@ -330,11 +330,11 @@ where "`path\to\directory`" is replaced by the location of the directory in whic
 C:\Users\jakek>cd
 ```
 
-Then, I would drag a folder into the powershell window and press enter. For instance, suppose I had created a folder called `ae353-sp23` somewhere on my computer and dragged it in, then pressed enter --- I would see something like this:
+Then, I would drag a folder into the powershell window and press enter. For instance, suppose I had created a folder called `ae353-fa24` somewhere on my computer and dragged it in, then pressed enter --- I would see something like this:
 
 ```
-C:\Users\jakek>cd C:\Users\jakek\OneDrive\Documents\ae353-sp23
-C:\Users\jakek\OneDrive\Documents\ae353-sp23>
+C:\Users\jakek>cd C:\Users\jakek\OneDrive\Documents\ae353-fa24
+C:\Users\jakek\OneDrive\Documents\ae353-fa24>
 ```
 
 See documentation on [Find and Open Files using Windows Command Prompt](https://www.faqforge.com/windows/windows-10/find-and-open-files-using-windows-command-prompt/) for a way to search for the directory location of files on your computer.
@@ -394,18 +394,18 @@ conda activate ae353
 Open a terminal and change the working directory to a folder in which you would like to put all your files. Then, use [git](https://git-scm.com/) to download the code from the ae353 github repository by running this command:
 
 ```
-git clone https://github.com/uiuc-ae353/ae353-fa23
+git clone https://github.com/uiuc-ae353/ae353-fa24
 ```
 
 This is a fork of Prof. Bretl's simulation environment.
 
-This process will take very little time. When it completes, you should find a new folder called `ae353-fa23` inside your working directory.
+This process will take very little time. When it completes, you should find a new folder called `ae353-fa24` inside your working directory.
 
 ### Do this every time
 
 ##### Change your working directory
 
-Open an **anaconda powershell** and change your working directory to `ae353-sp23`, wherever you put this.
+Open an **anaconda powershell** and change your working directory to `ae353-fa24`, wherever you put this.
 
 ##### Activate your conda environment
 
@@ -444,7 +444,7 @@ A browser window should open with the jupyter notebook interface. You can now na
 To test your setup, first activate your conda environment (follow the system specific instructions). After cloning the repository, you should be able to see a directory named `ae353-installation-tests`. Change your working directory to `ae353-installation-tests/tests` and open a Jupyter notebook here:
 
 ```
-cd ae353-fa23/ae353-installation-tests/tests
+cd ae353-fa24/ae353-installation-tests/tests
 jupyter notebook
 ```
 
