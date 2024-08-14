@@ -200,7 +200,7 @@ where "`path/to/directory`" is replaced by the location of the directory in whic
 (base) gokulp01@gokul ~ % cd
 ```
 
-Then, I would drag a folder into the terminal window and press return. For instance, suppose I had created a folder called `ae353-fa23` somewhere on my computer and dragged it in, then pressed return --- I would see something like this:
+Then, I would drag a folder into the terminal window and press return. For instance, suppose I had created a folder called `ae353-fa24` somewhere on my computer and dragged it in, then pressed return --- I would see something like this:
 
 ```
 (base) gokulp01@gokul ~ % cd /Users/gokulp01/Documents/ae353-fa24
