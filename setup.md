@@ -18,6 +18,8 @@ This document provides instructions for setting up the Python environment requir
 - If you are using macOS, skip to the [MacOS](#macos) section.
 - If you are using Windows, skip to the [Windows](#windows) section.
 
+After setting up your system, please move on the [testing](#testing-your-setup) section to ensure that your setup is correct.
+
 # Linux (Ubuntu/Debian-based Distros)
 
 ### Command-line basics
