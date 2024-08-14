@@ -14,6 +14,10 @@ August, 2024
 
 This document provides instructions for setting up the Python environment required for the design projects on your device. We provide instructions for Linux, macOS and Windows devices. In case you have any issues following these instructions, please post on the discussions section in Canvas and we will help you troubleshoot your installation. **Do not worry if some of the terms in the instructions below are not familiar to you**. We gratefully acknowledge Prof. Tim Bretl for developing the simulation environments used in the design projects.
 
+- If you are using Linux, skip to the [Linux](#linux-ubuntudebian-based-distros) section.
+- If you are using macOS, skip to the [MacOS](#macos) section.
+- If you are using Windows, skip to the [Windows](#windows) section.
+
 # Linux (Ubuntu/Debian-based Distros)
 
 ### Command-line basics
