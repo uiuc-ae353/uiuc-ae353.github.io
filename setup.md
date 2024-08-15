@@ -20,6 +20,8 @@ This document provides instructions for setting up the Python environment requir
 
 After setting up your system, please move on the [testing](#testing-your-setup) section to ensure that your setup is correct.
 
+Additionally, if you plan on using the computers in the undergraduate lab as your primary device for the projects, please contact the TA ([Gokul Puthumanaillam](mailto:gokulp2@illinois.edu)).
+
 # Linux (Ubuntu/Debian-based Distros)
 
 ### Command-line basics
