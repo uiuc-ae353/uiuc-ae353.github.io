@@ -2,4 +2,5 @@ title: AE 353 FA24
 description: Course website for AE 353 FA24
 theme: just-the-docs
 
+math: katex
 url: https://uiuc-ae353.github.io
