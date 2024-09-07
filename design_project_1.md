@@ -170,6 +170,7 @@ Late submission will be penalized (by up to 25% for the first week of delay—pr
 The first thing you should do is update your local copy of the repository with the DesignProblem01 file, to do this, please follow the [installation instructions](https://uiuc-ae353.github.io/setup.html), very specifically, follow the 'Do this every time' section and run the command after navigating to the directory where you have cloned the repository:
 
 ```
+conda activate ae353
 git pull
 ```
 
