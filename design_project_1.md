@@ -133,7 +133,13 @@ This report will satisfy the following requirements:
 
 You may organize your report however you like, but a natural structure might be to have sections titled Introduction, Model, Design, Results, and Conclusion.
 
-Before compressing your files into a compressed zip file for submission, the project folder should look like this:
+#### Submission Instructions
+
+To make it easier logistically, there will be two assigned submissions for this project on Canvas. Please submit the following separately:
+
+1. Report: Submit a pdf version of your report.
+2. Code: Compress your code into a zip file and submit the zip file.
+   Before compressing your files into a compressed zip file for submission, the project folder should look like this:
 
 ```
 ├── ae353_cmg-EoM.ipynb
