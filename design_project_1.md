@@ -129,7 +129,7 @@ This report will satisfy the following requirements:
 - It must tell a story that shows you have found and explored something that interests you.
 - It must acknowledge and cite any sources.
 - It should preferably be about 5 pages in length — it will be hard to show off your work with anything shorter, and it will be hard to keep readers’ attention with anything longer.
-  You may never have used LaTeX before. That’s fantastic! Help will be provided, and you will learn a lot. You will submit the PDF document produced using LaTeX. In particular, we recommend using [Overleaf](https://www.overleaf.com/), an easy to use web-based LaTeX editor.
+  You may never have used LaTeX before. Don't be afraid! Help will be provided, and you will learn a lot. You will submit the PDF document produced using LaTeX. In particular, we recommend using [Overleaf](https://www.overleaf.com/), an easy to use web-based LaTeX editor.
 
 You may organize your report however you like, but a natural structure might be to have sections titled Introduction, Model, Design, Results, and Conclusion.
 
