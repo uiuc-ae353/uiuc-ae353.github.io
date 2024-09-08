@@ -72,7 +72,7 @@ You are provided with the following:
 
 - `ae353_cmg-Template.ipynb` – A Jupyter notebook that provides a demo of the interface to the CMG simulator to help you get started. As a suggestion: make a copy of this notebook and work on the copy instead of the original template. This way, you can always refer back to the original template if needed. This is also the file that will contain your solution.
 - `ae353_cmg-EoM.ipynb` – A Jupyter notebook that provides the derivation of equations of motion for the CMG
-- `ae353_cmg.py` – A Python script that provides an interface to pybullet simulator. This is imported in the Jupyter notebook as shown in CMGDemo.ipynb. **Do not modify this file**
+- `ae353_cmg.py` – A Python script that provides an interface to pybullet simulator. This is imported in the Jupyter notebook as shown in ae353_cmg-EoM.ipynb. **Do not modify this file**
 - `cmg_vis` – A folder containing files needed for the simulator. **You don’t need to modify any of the files in this subfolder for the project**
 
 `ae353_cmg.py` and the files in the urdf subfolder are needed for the simulator to run and hence should always be in the same folder as the one in which the notebook you are working on is. However, you do not have to directly access or modify any of these files for this project.
@@ -181,6 +181,6 @@ After that, if you have read the entire project description and are not sure how
 
 ##### What is “the model” that I should linearize?
 
-The standard way to produce a state space model is to linearize a set of ODEs that describe the equations of motion. You will find ODEs that describe the equations of motion for the CMG system in the system section above. If you are interested, the derivation of these ODEs has also been provided for you in the DeriveEOM.ipynb notebook. I would start with these ODEs.
+The standard way to produce a state space model is to linearize a set of ODEs that describe the equations of motion. You will find ODEs that describe the equations of motion for the CMG system in the system section above. If you are interested, the derivation of these ODEs has also been provided for you in the `ae353_cmg-EoM.ipynb` notebook. I would start with these ODEs.
 
 You will quickly realize that it may be a good idea to restrict your attention only to the platform and the gimbal, treating the rotor as a source of torque. In particular, for the purpose of control design and analysis, you may want to assume that the angular velocity of the rotor is constant and to completely ignore the second-order ODE that describes how this rotor responds to applied torque. It is entirely up to you how to proceed, though. There is no one right answer.
