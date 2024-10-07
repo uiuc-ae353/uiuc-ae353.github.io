@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Design Project 2 - CMG
+title: Design Project 2 - SegBot
 nav_order: 3
 math: katex
 ---
@@ -207,11 +207,15 @@ Please do the following things:
 - Implement this controller and test it in simulation.
 - Follow the instructions you wrote to verify that your requirement is (or is not) satisfied.
 
+Note: The tasks outlined above should be completed with the "bumpy" setting set to False, which is the default setting. This ensures that environments are generated without obstacles.
+
+If you've finished these tasks and are looking for an extra challenge, you can earn a small bonus by setting "bumpy" to True and completing the following additional tasks:
+
+Test the ability of at least one real person to steer the robot — with your controller — safely around the station ring. It would be best if this person were a real "non-expert" — someone not in your group, not in this class, and maybe outside the college of engineering!
+
+There are many other ways to go beyond minimum requirements (how does the spin rate impact the performance of your controller? how fast is it possible to get the robot to move around the ring without it falling off, falling down, or hitting anything? how does performance vary with the choice of speed at which the robot tries to move?) — come talk to us if you want an extra challenge.
+
 As always, remember that your controller is not expected to "work" in all cases and that you should try hard to establish limits of performance (i.e., to break your controller). At minimum, you should rigorously vary the initial conditions, as you did in your first design project.
-
-Please also test the ability of at least one real person to steer the robot — with your controller — safely around the station ring. It would be best if this person were a real "non-expert" — someone not in your group, not in this class, and maybe outside the college of engineering!
-
-There are many ways to go beyond minimum requirements (how does the spin rate impact the performance of your controller? how fast is it possible to get the robot to move around the ring without it falling off, falling down, or hitting anything? how does performance vary with the choice of speed at which the robot tries to move?) — come talk to us if you want an extra challenge.
 
 ### Your deliverables
 
