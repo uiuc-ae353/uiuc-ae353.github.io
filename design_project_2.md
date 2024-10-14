@@ -42,7 +42,15 @@ Many [assessments of artificial gravity in space missions](https://ntrs.nasa.gov
 
 If we assume (incorrectly) that the inside of the space station is _flat_ and not _curved upward_, then the motion of the system is governed by ordinary differential equations with the following form (see [Studies of Systems with Nonholonomic Constraints: the Segway and the Chaplygin Sleigh (Tuttle, 2014)](https://docs.lib.purdue.edu/open_access_theses/386) for a derivation):
 
-$$\begin{bmatrix} \dot{e}_\text{lateral} \\ \dot{e}_\text{heading} \\ \dot{v} \\ \dot{w} \\ \ddot{\theta} \end{bmatrix} = f(e_\text{lateral}, e_\text{heading}, v, w, \theta, \dot{\theta}, \tau_R, \tau_L)$$
+$$
+\begin{bmatrix}
+\dot{e}_{lat} \\
+\dot{v} \\
+\ddot{\phi} \\
+\ddot{\theta}
+\end{bmatrix}
+= f(e_{lat}, v, \phi, \dot{\phi}, \theta, \dot{\theta}, \tau_l, \tau_r)
+$$
 
 The details of the function $$f$$ get a little complicated:
 
