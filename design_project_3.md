@@ -118,7 +118,7 @@ _Please note:_ If you choose to submit before time, please do not submit a secon
 Once you have a working control design, you can turn your attention to the following additional
 analysis for bonus points:
 
-- Designing a controller that can reach the last ring through all the 5 rings – you should
+- Designing a controller that can reach the last ring through all the 7 rings – you should
   submit working code for verification and also mention this addition work in the report
   under a title “Bonus Work”.
 - The goal in this project is to minimize the time your drone takes to reach the last
