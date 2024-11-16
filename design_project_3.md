@@ -111,7 +111,7 @@ First, you must do **all** of the following things:
 #### Bonus 1: Early submission:
 
 **If you submit all your deliverables 2 days before the deadline (i.e. by 12/04/2024, 11:59PM), you will be given a full 7% bonus credit.**
-_Please note:_ If you choose to submit before time, please do not submit a second time after Friday -- if you choose to, please email the TA (gokulp2@illinois.edu) or else, only your first submission will be marked.
+_Please note:_ If you choose to submit before time, please do not submit a second time after Friday -- if you choose to, please email the TA (gokulp2@illinois.edu), or else only your first submission will be marked.
 
 #### Bonus 2: Minimizing Time to Rings
 
@@ -124,6 +124,7 @@ analysis for bonus points:
 - The goal in this project is to minimize the time your drone takes to reach the last
   ring.
   <span style="color:red">Please record the timings if the drone is successful in reaching the last state, and include them in your report. We will have a leaderboard (Top 7) for the fastest drone to reach the last ring on the website!</span>. If you do not want to be included in the leaderboard, please email the TA (gokulp2@illinois.edu).
+- The fastest drone will receive 8 bonus points, the second fastest will receive 6 points, the third fastest will receive 5 points, and the remaining entries in the Top 7 will receive 4 points. Any drone that successfully completes the course but does not make the leaderboard will earn 2 bonus points.
 
 ### Deliverables
 
@@ -195,3 +196,7 @@ git pull
 This will update your local copy of the repository with the code for Design Problem 02. Verify that you can run the simulation, and mess around a little bit with different actuator commands (e.g., constant wheel torques) to get a sense for how the system responds.
 
 After that, if you have read the entire project description and are not sure how to proceed, then take your best guess and ask a question on Canvas. Improving your ability to get unstuck by asking a good question is an explicit goal of this course.
+
+##### What should I do if I encounter technical issues while submitting?
+
+If you face any technical issues during submission, **do not wait until the last moment to resolve them.** Immediately reach out to the TA (gokulp2@illinois.edu) via email or in person to explain the problem.
