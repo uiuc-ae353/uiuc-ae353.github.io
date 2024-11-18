@@ -110,7 +110,7 @@ First, you must do **all** of the following things:
 
 #### Bonus 1: Early submission:
 
-**If you submit all your deliverables 2 days before the deadline (i.e. by 12/04/2024, 11:59PM), you will be given a full 7% bonus credit.**
+**If you submit all your deliverables 2 days before the deadline (i.e. by 12/06/2024, 11:59PM), you will be given a full 7% bonus credit.**
 _Please note:_ If you choose to submit before time, please do not submit a second time after Friday -- if you choose to, please email the TA (gokulp2@illinois.edu), or else only your first submission will be marked.
 
 #### Bonus 2: Minimizing Time to Rings
@@ -130,7 +130,7 @@ analysis for bonus points:
 
 We will use Canvas for submitting design projects and the video file. You must create a compressed folder (.zip) titled DP3-submission with the
 code and the report in the format described below and submit by 11:59PM CST on December
-6 (early submission bonus by 11:59 PM, December 4).
+8 (early submission bonus by 11:59 PM, December 6).
 
 #### Code:
 
