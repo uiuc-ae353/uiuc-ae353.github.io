@@ -91,7 +91,7 @@ The goal is to race as fast as possible from the start to the finish line, passi
 
 First, you must do **all** of the following things:
 
-- Define a requirement and a verification, just as you did in the previous design projects.
+- Define a requirement and a verification, just as you did in the previous design projects. Ensure the requirement explicitly addresses the drone's ability to successfully navigate through multiple rings along the designated racing path.
 - Linearize the equations of motion and a sensor model (the sensor model is straightforward,
   ask in Canvas if you have questions). Verify that the equilibrium point you
   picked is indeed an equilibrium point.
