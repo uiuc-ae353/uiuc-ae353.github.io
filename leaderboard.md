@@ -5,7 +5,7 @@ nav_order: 4
 math: katex
 ---
 
-# 🏆 DP3 Performance Rankings
+# 🏆 Design Project 3 Leaderboard
 
 Welcome to the DP3 class leaderboard!
 
