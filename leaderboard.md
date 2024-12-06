@@ -13,9 +13,9 @@ Welcome to the DP3 class leaderboard!
 
 | Position | Student Name  | Average Time (s) | Best Time (s) | Latest Run |
 | :------: | ------------- | :--------------: | :-----------: | :--------: |
-|  🥇 1st  | Aadit Kolar   |       58.6       |     53.1      |   Dec 6    |
-|  🥈 2nd  | Luke Sadowski |       58.9       |     43.2      |   Dec 6    |
-|  🥉 3rd  |               |                  |               |            |
+|  🥇 1st  | Hao Jiang   |       31.6       |     29.9      |   Dec 6    |
+|  🥈 2nd  | Aadit Kolar   |       58.6       |     53.1      |   Dec 6    |
+|  🥉 3rd  |Luke Sadowski |       58.9       |     43.2      |   Dec 6    |
 |   4th    |               |                  |               |            |
 |   5th    |               |                  |               |            |
 |   6th    |               |                  |               |            |
@@ -23,8 +23,8 @@ Welcome to the DP3 class leaderboard!
 
 ## Statistics
 - **Class Average:** [Will be updated after receiving atleast 15 submissions]
-- **Fastest Run Among the Selected Seeds:** 43.2 seconds (Luke Sadowski)
-- **Latest Update**: December 6, 2024 (8:31:12 AM)
+- **Fastest Run Among the Selected Seeds:** 29.9 seconds (Hao Jiang)
+- **Latest Update**: December 6, 2024 (9:41:36 AM) 
 
 ## Rules & Information
 
