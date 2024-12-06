@@ -22,8 +22,8 @@ Welcome to the DP3 class leaderboard!
 |   7th    |               |                  |               |            |
 
 ## Statistics
-
-- **Fastest Run**: 40.1 ms (Alice Chen)
+- **Class Average:** [Will be updated after receiving atleast 15 submissions]
+- **Fastest Run Among the Selected Seeds:** 43.2 seconds (Luke Sadowski)
 - **Latest Update**: December 6, 2024 (8:31:12 AM)
 
 ## Rules & Information
