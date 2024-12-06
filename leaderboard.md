@@ -28,7 +28,7 @@ Welcome to the DP3 class leaderboard!
 
 ## Rules & Information
 
-1. Rankings are based on the average of each student's last three successful runs (3 selected seeds)
+1. Rankings are based on the average of each student's successful runs (3 selected seeds)
 2. Times are measured in milliseconds (s)
 3. Only valid submissions that pass all test cases are included
 4. Leaderboard updates daily at 9:30AM CST
