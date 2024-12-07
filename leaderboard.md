@@ -13,18 +13,19 @@ Welcome to the DP3 class leaderboard!
 
 | Position | Student Name  | Average Time (s) | Best Time (s) | Latest Run |
 | :------: | ------------- | :--------------: | :-----------: | :--------: |
-|  🥇 1st  | Hao Jiang   |       31.6       |     29.9      |   Dec 6    |
-|  🥈 2nd  | Aadit Kolar   |       58.6       |     53.1      |   Dec 6    |
-|  🥉 3rd  |Luke Sadowski |       58.9       |     43.2      |   Dec 6    |
-|   4th    |               |                  |               |            |
-|   5th    |               |                  |               |            |
-|   6th    |               |                  |               |            |
-|   7th    |               |                  |               |            |
+|  🥇 1st  | Hao Jiang     |       31.6       |     29.9      |   Dec 6    |
+|  🥈 2nd  | Eli Bennett   |       32.9       |     28.2      |   Dec 7    |
+|  🥈 2nd  |Dhruva Chowlur |       32.9       |     27.4      |   Dec 7    |
+|  🥉 3rd  |Josue Bashombe |       34.0       |     30.5      | Dec 7      |
+|   4th    |  Alex Kuehnle |       34.6       |     29.8      | Dec 7      |
+|   5th    |  Jonah Wu     |       38.2       |     31.7      | Dec 7      |
+|   6th    |  Aadit Kolar  |       58.6       |    53.1       |   Dec 6    |
+|   7th    | Evan Jurcenko |       63.3       |    55.0       | Dec 7      |
 
 ## Statistics
-- **Class Average:** [Will be updated after receiving atleast 15 submissions]
-- **Fastest Run Among the Selected Seeds:** 29.9 seconds (Hao Jiang)
-- **Latest Update**: December 6, 2024 (9:41:36 AM) 
+- **Class Average:** [Will be updated after receiving atleast 15 successful submissions]
+- **Fastest Run Among the Selected Seeds:** 25.4 seconds (Dhruva Chowlur)
+- **Latest Update**: December 7, 2024 (10:48:36 AM) 
 
 ## Rules & Information
 
@@ -38,4 +39,3 @@ Welcome to the DP3 class leaderboard!
 - Times are rounded to one decimal place. In case of ties, the next decimal place is used for tie-breaking
 - Questions about the leaderboard? Contact the course staff
 
----
