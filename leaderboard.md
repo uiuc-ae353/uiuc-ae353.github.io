@@ -24,7 +24,7 @@ Welcome to the DP3 class leaderboard!
 
 ## Statistics
 - **Class Average:** [Will be updated after receiving atleast 15 successful submissions]
-- **Fastest Run Among the Selected Seeds:** 25.4 seconds (Dhruva Chowlur)
+- **Fastest Run Among the Selected Seeds:** 27.4 seconds (Dhruva Chowlur)
 - **Latest Update**: December 7, 2024 (10:48:36 AM) 
 
 ## Rules & Information
