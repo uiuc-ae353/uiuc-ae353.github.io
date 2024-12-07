@@ -20,7 +20,8 @@ Welcome to the DP3 class leaderboard!
 |   4th    |  Alex Kuehnle |       34.6       |     29.8      | Dec 7      |
 |   5th    |  Jonah Wu     |       38.2       |     31.7      | Dec 7      |
 |   6th    |  Aadit Kolar  |       58.6       |    53.1       |   Dec 6    |
-|   7th    | Evan Jurcenko |       63.3       |    55.0       | Dec 7      |
+|  7th  | Luke Sadowski |       58.9       |     43.2      |   Dec 6    |
+|   8th    | Evan Jurcenko |       63.3       |    55.0       | Dec 7      |
 
 ## Statistics
 - **Class Average:** [Will be updated after receiving atleast 15 successful submissions]
