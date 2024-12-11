@@ -13,24 +13,25 @@ Welcome to the DP3 class leaderboard!
 
 | Position | Student Name  | Average Time (s) | Best Time (s) | Latest Run |
 | :------: | ------------- | :--------------: | :-----------: | :--------: |
-|  🥇 1st  | Hao Jiang     |       31.6       |     29.9      |   Dec 6    |
-|  🥈 2nd  | Ishaan Kandamuri  |       32.24       |     27.4      |   Dec 9    |
-|  🥉 3rd  | Pranet Patil   |       32.28       |     31.2      |   Dec 9    |
-|  4th  | Eli Bennett   |       32.96       |     28.2      |   Dec 7    |
-|  4th  |Dhruva Chowlur |       32.96       |     27.4      |   Dec 7    |
-|  5th  |Josue Bashombe |       34.0       |     30.5      | Dec 7      |
-|   6th    |  Adam Mateja |       34.35       |     33.3      | Dec 9      |
-|   7th    |  Nathan Hutcherson |       34.39       |     30.1      | Dec 9      |
-|   8th    |  Alex Kuehnle |       34.6       |     29.8      | Dec 7      |
-|   9th    |  Jonah Wu     |       38.2       |     31.7      | Dec 7      |
-|   10th    |  Nicole Artemyev  |       49.3       |    39.8       |   Dec 9    |
+|  🥇 1st  | Nick Obrien     |       25.1       |     18.7      |   Dec 11    |
+|  🥈 2nd   | Hao Jiang     |       31.6       |     29.9      |   Dec 6    |
+|  🥉 3rd   | Ishaan Kandamuri  |       32.24       |     27.4      |   Dec 9    |
+|   4th  | Pranet Patil   |       32.28       |     31.2      |   Dec 9    |
+|   5th  | Ryan Gao   |       32.31       |     30.4      |   Dec 11    |
+|  6th  | Eli Bennett   |       32.96       |     28.2      |   Dec 7    |
+|  6th  |Dhruva Chowlur |       32.96       |     27.4      |   Dec 7    |
+|  7th  |Josue Bashombe |       34.0       |     30.5      | Dec 7      |
+|   8th    |  Adam Mateja |       34.35       |     33.3      | Dec 9      |
+|   9th    |  Nathan Hutcherson |       34.39       |     30.1      | Dec 9      |
+|   10th    |  Alex Kuehnle |       34.6       |     29.8      | Dec 7      |
+
 
 
 ## Statistics
-- **Class Average:** 58.96s
-- **Fastest Run Among the Selected Seeds:** 27.4 seconds (Dhruva Chowlur, Ishaan Kandamuri)
-- **Latest Update**: December 9, 2024 (3:19:11 PM)
-- **Unprocessed Submissions**: 8 (i.e., 8 submissions are still being manually tested)
+- **Class Average:** 64.41s
+- **Fastest Run Among the Selected Seeds:** 18.7s(Nick Obrien)
+- **Latest Update**: December 11, 2024 (11:34:23 AM)
+- **Unprocessed Submissions**: 4 (i.e., 4 submissions are still being manually tested)
 
 ## Rules & Information
 
@@ -43,5 +44,7 @@ Welcome to the DP3 class leaderboard!
 ## Notes
 
 - Times are rounded to one decimal place. In case of ties, the next decimal place is used for tie-breaking
+- No update on 10/12 because no submission passed the autograder. Manual grading happened on 11/12
 - Questions about the leaderboard? Contact the course staff
+
 
