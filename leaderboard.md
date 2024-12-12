@@ -28,10 +28,10 @@ Welcome to the DP3 class leaderboard!
 
 
 ## Statistics
-- **Class Average:** 64.41s
+- **Class Average:** 73.22s
 - **Fastest Run Among the Selected Seeds:** 18.7s(Nick Obrien)
-- **Latest Update**: December 11, 2024 (11:34:23 AM)
-- **Unprocessed Submissions**: 4 (i.e., 4 submissions are still being manually tested)
+- **Latest Update**: December 12, 2024 (9:41:11 AM)
+- **Unprocessed Submissions**: 0 (i.e., 0 submissions are still being manually tested)
 
 ## Rules & Information
 
