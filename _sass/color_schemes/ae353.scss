@@ -1,0 +1,41 @@
+// AE353 Custom Color Scheme
+// Based on University of Illinois colors
+// Illinois Blue: #13294B
+// Illinois Orange: #E84A27
+
+// Links - Illinois Orange
+$link-color: #E84A27;
+
+// Buttons - Illinois Orange
+$btn-primary-color: #E84A27;
+$base-button-color: #f7f7f7;
+
+// Body text
+$body-text-color: #2c2c2c;
+$body-heading-color: #13294B;  // Illinois Blue for headings
+
+// Sidebar
+$sidebar-color: #f5f6fa;
+$nav-child-link-color: #5c5962;
+
+// Navigation - use text color instead of background
+$nav-list-link-active-color: #E84A27;
+$nav-list-link-active-bg: transparent;  // No background highlight
+
+// Borders
+$border-color: #eeebee;
+
+// Code blocks  
+$code-background-color: #f5f6fa;
+$code-linenumber-color: #959396;
+
+// Search
+$search-background-color: #fff;
+$search-result-preview-color: #5c5962;
+$search-active-color: rgba(232, 74, 39, 0.2);
+
+// Tables
+$table-background-color: #fff;
+
+// Feedback and warnings - keep orange theme
+$feedback-color: #E84A27;

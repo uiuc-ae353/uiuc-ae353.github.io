@@ -1,19 +1,22 @@
 ---
 layout: home
-title: AE 353 Fall 2024
+title: AE353 (Sp26)
 nav_exclude: true
 seo:
   type: Course
   name: AE 353 Aerospace Control Systems
 ---
 
-⚠️ Important Notice: This website is now archived and will no longer be updated.
-
 ## Welcome to the AE-353!
 
-This website supports the course **AE 353: Aerospace Control Systems** taught by Prof. Melkior Ornik in Fall 2024 at the University of Illinois at Urbana-Champaign.
+This website supports the course **AE 353: Aerospace Control Systems** taught by Prof. Melkior Ornik in Spring 2026 at the University of Illinois at Urbana-Champaign.
 
-⚠️ Important Notice: **Canvas will be the primary platform for all course communications**. It is essential that students are enrolled in the correct Canvas page and have their notifications set up to receive announcements promptly. All crucial updates and announcements will be delivered through Canvas. **This website is intended as a supplementary resource, primarily serving as a wiki for project-related information.**
+{: .warning }
+> ⚠️ **Important Notice**
+>
+> 1. **Canvas will be the primary platform for all course communications**. It is essential that students are enrolled in the correct Canvas page and have their notifications set up to receive announcements promptly. All crucial updates and announcements will be delivered through Canvas. 
+>
+> 2. **This website is intended as a supplementary resource, primarily serving as a wiki for project-related information.**
 
 ## Course Description
 
@@ -23,6 +26,6 @@ On a more technical level, the primary objective of the course is to expose stud
 
 ## Course Staff
 
-Professor: Melkior Ornik ([mornik@illinois.edu](mailto:mornik@illinois.edu))
+**Professor:** Melkior Ornik ([mornik@illinois.edu](mailto:mornik@illinois.edu))
 
-Teaching assistant: Gokul Puthumanaillam ([gokulp2@illinois.edu](mailto:gokulp2@illinois.edu))
+**Teaching assistants:** Gokul Puthumanaillam ([gokulp2@illinois.edu](mailto:gokulp2@illinois.edu)), Manav Vora ([mkvora2@illinois.edu](mailto:mkvora2@illinois.edu))

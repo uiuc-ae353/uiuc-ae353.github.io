@@ -1,0 +1,38 @@
+/* Custom styles for AE353 website */
+
+/* Light orange callout box */
+blockquote.warning {
+  background-color: #fff3cd;
+  border-left: 4px solid #ff9800;
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 4px;
+}
+
+blockquote.warning p {
+  margin: 0.5rem 0;
+}
+
+blockquote.warning p:first-child {
+  margin-top: 0;
+}
+
+blockquote.warning p:last-child {
+  margin-bottom: 0;
+}
+
+/* REMOVE ALL BACKGROUND HIGHLIGHTING - just use left border */
+.nav-list .nav-list-item .nav-list-link {
+  background: transparent !important;
+}
+
+.nav-list .nav-list-item .nav-list-link:hover {
+  background: transparent !important;
+}
+
+.nav-list .nav-list-item .nav-list-link.active {
+  background: transparent !important;
+  border-left: 3px solid #E84A27 !important;
+  padding-left: calc(1rem - 3px) !important;
+  font-weight: 600 !important;
+}

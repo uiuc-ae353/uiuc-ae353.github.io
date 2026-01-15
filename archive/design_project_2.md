@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Design Project 2 - SegBot
-nav_order: 3
+parent: Archive
+nav_order: 2
 math: katex
 ---
 

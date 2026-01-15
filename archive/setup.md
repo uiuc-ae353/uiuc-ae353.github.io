@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Installation instructions
-nav_exclude: true
+parent: Archive
+nav_order: 5
 ---
 
 # AE353 - Design Project Environment Setup

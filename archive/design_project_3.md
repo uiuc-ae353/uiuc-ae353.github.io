@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Design Project 3 - Drone
+parent: Archive
 nav_order: 3
 math: katex
 ---

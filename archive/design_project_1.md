@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Design Project 1 - CMG
-nav_order: 3
+parent: Archive
+nav_order: 1
 math: katex
 ---
 

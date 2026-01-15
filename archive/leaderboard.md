@@ -1,7 +1,8 @@
 ---
 layout: page
 title: 🏆 DP3 Leaderboard
-nav_exclude: true
+parent: Archive
+nav_order: 4
 math: katex
 ---
 
