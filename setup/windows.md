@@ -105,7 +105,7 @@ Open a terminal and change the working directory to a folder in which you would 
 Use [git](https://git-scm.com/) to download the code from our [ae353 github repository]({{ site.github.repository_url }}) by running this command:
 
 ```
-git clone https://github.com/tbretl/ae353-sp25.git
+git clone https://github.com/uiuc-ae353/ae353-sp26.git
 ```
 
 This process will take very little time. When it completes, you should find a new folder called `ae353-sp25` inside your working directory.
