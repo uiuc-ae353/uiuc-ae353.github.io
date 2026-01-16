@@ -5,8 +5,5 @@ theme: just-the-docs
 # Color scheme - options: nil (default), "dark", or custom
 color_scheme: ae353
 
-# Footer content for sidebar
-footer_content: 'To access the Fall 2024 documents, <a href="/archive/">follow this link</a>.'
-
 math: katex
 url: https://uiuc-ae353.github.io
