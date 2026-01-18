@@ -9,7 +9,7 @@ seo:
 
 ## Welcome to the AE-353!
 
-This website supports the course **AE 353: Aerospace Control Systems** taught by Prof. Melkior Ornik in Spring 2026 at the University of Illinois at Urbana-Champaign.
+This website supports the course **AE 353: Aerospace Control Systems** taught by Prof. Melkior Ornik in Spring 2026 at the University of Illinois Urbana-Champaign.
 
 {: .warning }
 > ⚠️ **Important Notice**
