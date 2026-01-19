@@ -28,9 +28,7 @@ blockquote.warning p:last-child {
 
 .nav-list .nav-list-item .nav-list-link:hover {
   background: transparent !important;
-}
-
-.nav-list .nav-list-item .nav-list-link.active {
+}.nav-list .nav-list-item .nav-list-link.active {
   background: transparent !important;
   border-left: 3px solid #E84A27 !important;
   padding-left: calc(1rem - 3px) !important;
