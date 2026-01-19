@@ -1,3 +1,11 @@
+---
+layout: page
+title: Git Introduction
+parent: Git
+grand_parent: Coding Resources
+nav_order: 1
+---
+
 # Git cheat sheet
 
 This is a minimal, practical Git cheat sheet for everyday use.
