@@ -75,7 +75,7 @@ Open a terminal and change the working directory to a folder in which you would 
 git clone https://github.com/uiuc-ae353/ae353-sp26.git
 ```
 
-This process will take very little time. When it completes, you should find a new folder called `ae353-sp25` inside your working directory.
+This process will take very little time. When it completes, you should find a new folder called `ae353-sp26` inside your working directory.
 
 {: .note-title}
 > How to change the working directory
@@ -96,7 +96,7 @@ This process will take very little time. When it completes, you should find a ne
 
 ### Create a conda environment
 
-An "environment" is like a sandbox where you can install software without causing any conflict with other things you might have installed on your computer. To create an environment for work in AE353, change your working directory to `ae353-sp25` (wherever you put the code). Then, run this command:
+An "environment" is like a sandbox where you can install software without causing any conflict with other things you might have installed on your computer. To create an environment for work in AE353, change your working directory to `ae353-sp26` (wherever you put the code). Then, run this command:
 
 ```
 conda env create -f environment.yml
@@ -133,7 +133,7 @@ Install the jupyter extension as follows:
 
 ### Change your working directory
 
-Open a terminal and change your working directory to `ae353-sp25`, wherever you put this.
+Open a terminal and change your working directory to `ae353-sp26`, wherever you put this.
 
 ### Activate your conda environment
 
