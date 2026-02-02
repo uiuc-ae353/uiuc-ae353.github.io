@@ -56,17 +56,17 @@ $$
 
 The variables in these equations are defined as follows:
 
-* $\zeta$ is the **wheel position** ($\text{m}$);
-* $\dot{\zeta}$ is the **wheel velocity** ($\text{m}/\text{s}$);
-* $\theta$ is the **pitch angle** ($\text{rad}$) --- positive means tilting forward;
-* $\dot{\theta}$ is the **pitch rate** ($\text{rad}/\text{s}$);
-* $\tau$ is the **wheel torque** ($\text{N}\cdot\text{m}$) applied by the chassis to the wheels --- positive will cause the wheels to rotate forward.
+* \\(\zeta\\) is the **wheel position** (\\(\text{m}\\));
+* \\(\dot{\zeta}\\) is the **wheel velocity** (\\(\text{m}/\text{s}\\));
+* \\(\theta\\) is the **pitch angle** (\\(\text{rad}\\)) --- positive means tilting forward;
+* \\(\dot{\theta}\\) is the **pitch rate** (\\(\text{rad}/\text{s}\\));
+* \\(\tau\\) is the **wheel torque** (\\(\text{N}\cdot\text{m}\\)) applied by the chassis to the wheels --- positive will cause the wheels to rotate forward.
 
 The constant parameters in these equations are defined as follows:
 
 $$ \begin{align*}r_w &= 0.325 \\ m_w &= 2.4 \\ J_w &= 0.12675 \\ r_b &= 0.3 \\ m_b &= 12.0 \\ J_b &= 0.8 \\ g &= 9.81. \end{align*} $$
 
-Sensors provide measurements of the wheel position, wheel velocity, pitch angle, and pitch rate, as well as of the position that the launched cat-pilot is expected to land, i.e., the **cat target** ($\text{m}$), which varies up to a maximum of $\pm 2.5\;\text{m}$ from the center of the platform. Actuators allow you to choose what torque will be applied to the wheels, up to a maximum of $\pm 5\;\text{N}\cdot\text{m}$.
+Sensors provide measurements of the wheel position, wheel velocity, pitch angle, and pitch rate, as well as of the position that the launched cat-pilot is expected to land, i.e., the **cat target** (\\(\text{m}\\)), which varies up to a maximum of \\(\pm 2.5\;\text{m}\\) from the center of the platform. Actuators allow you to choose what torque will be applied to the wheels, up to a maximum of \\(\pm 5\;\text{N}\cdot\text{m}\\).
 
 The code provided here simulates the motion of this system: `CatbotDemo-Template.ipynb`. The equations of motion are derived in symbolic form here: `DeriveEOM-Template.ipynb`.
 
