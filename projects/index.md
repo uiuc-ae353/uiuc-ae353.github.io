@@ -10,4 +10,5 @@ has_children: true
 This section contains all the design projects for AE353 Spring 2026.
 
 - [DP1 (Cat-Bot)](01-catbot)
-- [DP3 (Spacecraft)](02-spacecraft)
+- [DP2 (Spacecraft)](02-spacecraft)
+- [DP3 (Drone)](04-drone)

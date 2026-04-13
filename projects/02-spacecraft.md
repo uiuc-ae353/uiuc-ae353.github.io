@@ -2,7 +2,7 @@
 layout: page
 title: DP2 (Spacecraft)
 parent: Projects
-nav_order: 3
+nav_order: 2
 ---
 
 # Design Project 2 (spacecraft with star tracker)
