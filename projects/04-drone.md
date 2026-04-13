@@ -190,7 +190,7 @@ You may organize your report however you like. Here is a suggested structure (no
   * *Results and discussion.* Show the results of your experiments in simulation (e.g., with plots and tables) and discuss the extent to which they validate your control design and support an argument for the safety of your racing system.
   * *Conclusion.* Summarize key conclusions and identify ways that others could improve or build upon your work.
   * *Appendix.* Provide a review of your racing system from the perspective of one or more of your cat-pilots. They are important stakeholders. You are welcome to refer to this appendix — i.e., to the remarks from your cat-pilots — in other parts of your report, if it is helpful in supporting your arguments.
-  * *Acknowledgements.* Thank anyone outside your group with whom you discussed this project and clearly describe what you are thanking them for.
+  * *Acknowledgements.* Thank anyone with whom you discussed this project and clearly describe what you are thanking them for.
   * *References.* Cite any sources, including the work of your colleagues.
 
 #### Video
