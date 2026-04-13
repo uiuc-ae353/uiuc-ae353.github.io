@@ -91,7 +91,7 @@ In addition to these marker position measurements, your controller is also provi
 * a flag (`is_last_ring`) that indicates if this next ring is the last ring, a.k.a., the "finish"
 * the position (`pos_others`) of all other drones that are still flying.
 
-The code provided [here]({{ site.github.repository_url }}/tree/main/projects/04_drone) simulates the motion of this system ([DroneDemo]({{ site.github.repository_url }}/tree/main/projects/04_drone/DroneDemo-Template.ipynb)) and also derives the dynamic model and sensor model in symbolic form ([DeriveEOM]({{ site.github.repository_url }}/tree/main/projects/04_drone/DeriveEOM-Template.ipynb)).
+The code provided simulates the motion of this system (DroneDemo-Template.ipynb) and also derives the dynamic model and sensor model in symbolic form (DeriveEOM-Template.ipynb).
 
 The goal is to race as fast as possible from the start ring to the goal ring, passing through all the rings in between.
 
