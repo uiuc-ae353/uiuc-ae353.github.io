@@ -54,10 +54,10 @@ In these equations:
 * $\tau_z$ is the **net torque about the body-fixed $z$ axis** ($N\cdot\text{m}$)
 * $f_z$ is the **net force along the body-fixed $z$ axis** ($N$)
 
-A [symbolic description of these equations of motion]({{ site.github.repository_url }}/tree/main/projects/04_drone/DeriveEOM-Template.ipynb) is provided with the [project code]({{ site.github.repository_url }}/tree/main/projects/04_drone).
+A symbolic description of these equations of motion (DeriveEOM-Template.ipynb) is provided with the project code.
 
 {: .note}
-> The body frame attached to the drone has $x$ forward, $y$ **left**, and $z$ **up**. This convention is different from what is commonly used for aircraft (with $y$ right and $z$ down), and in particular is different from what you used in your [second design project](02-zagi). A positive yaw angle means the drone rotates **left** (not right, like the aircraft). A positive pitch angle means the drone rotates **down** (not up, like the aircraft).
+> The body frame attached to the drone has $x$ forward, $y$ **left**, and $z$ **up**. This convention is different from what is commonly used for aircraft (with $y$ right and $z$ down), and in particular is different from what you used in your second design project. A positive yaw angle means the drone rotates **left** (not right, like the aircraft). A positive pitch angle means the drone rotates **down** (not up, like the aircraft).
 
 The actuators that produce the net torques $\tau_x, \tau_y, \tau_z$ and net force $f_z$ are the four rotors on the drone, each of which is driven by an electric motor. These rotors can spin in only one direction, and have minimum and maximum speeds. These bounds limit the torques and forces that can actually be produced. These limits are more complicated than simple minimums and maximums. Here are two ways to get a sense for what these limits are:
 
