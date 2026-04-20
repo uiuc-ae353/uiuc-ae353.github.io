@@ -138,6 +138,8 @@ Just as in your previous two design projects, you must be specific about what yo
 > 
 > You may, of course, be tempted to **eliminate** failures after you find them, by making some change to your control design. This is exactly the right thing to do, but remember that after you make a change, you'll have to repeat (completely) your analysis of failure.
 
+In doing these things, **keep your focus on the safety and well-being of your cat-pilot**. They need to know not only that your control system is reliable, but also what failures are possible and how likely they are to occur.
+
 ### Bonus Questions
 
 Once you have a working control design, you can turn your attention to the following additional
@@ -152,7 +154,6 @@ analysis for bonus points:
   We will have a (simulated) live drone race on the last day of class! If you want to be included in the race, please (a) submit the deliverables by 04/30/2026, 11:59PM (THIS IS NOT THE PROJECT DEADLINE. THIS IS THE DEADLINE FOR THE RACE APPLICATION.), and (b) fill out the form that we will send out on Canvas.  
 - Our leaderboard will have the top 7 fastest drones. The fastest drone will receive 8 bonus points, the second fastest will receive 6 points, the third fastest will receive 5 points, and the remaining entries in the Top 7 will receive 4 points. Any drone that successfully completes the course but does not make the leaderboard will earn 2 bonus points.
 
-In doing these things, **keep your focus on the safety and well-being of your cat-pilot**. They need to know not only that your control system is reliable, but also what failures are possible and how likely they are to occur.
 
 
 ### Your deliverables
@@ -227,3 +228,7 @@ Your work will be evaluated based on:
 - (15%) Your report being formatted correctly
 
 Late submission will be penalized (by up to 25% for the first week of delay—**prorated** for the actual amount of delay—and 50% after then), but extraordinary efforts may receive extra commendation. 
+
+#### Rubric
+
+[DP3 Rubric (SP26)](../assets/DP3_rubric_SP26.pdf)
